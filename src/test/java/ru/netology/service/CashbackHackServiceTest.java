@@ -18,7 +18,7 @@ public class CashbackHackServiceTest {
     }
 
     @Test
-    public void cashbackServiceAmount0() {
+    public void cashbackServiceAmount100() {
         CashbackHackService service = new CashbackHackService();
         int amount = 100;
 
